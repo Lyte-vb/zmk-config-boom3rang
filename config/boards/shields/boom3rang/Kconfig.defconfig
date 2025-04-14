@@ -1,0 +1,6 @@
+if SHIELD_BOOM3RANG
+			
+config ZMK_KEYBOARD_NAME
+	default "boom3rang"
+
+endif
