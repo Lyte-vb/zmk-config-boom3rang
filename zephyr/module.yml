@@ -1,5 +1,4 @@
 name: boom3rang
 build:
-  kconfig: Kconfig
   settings:
     board_root: .
