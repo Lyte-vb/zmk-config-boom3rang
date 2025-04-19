@@ -1,3 +1,4 @@
+name: boom3rang
 build:
   settings:
     board_root: config
