@@ -1,2 +1,0 @@
-config ZMK_SHIELD_BOOM3RANG
-	def_bool $(sheilds_list_contains, boom3rang)
