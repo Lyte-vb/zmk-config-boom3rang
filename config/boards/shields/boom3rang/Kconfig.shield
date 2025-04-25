@@ -1,2 +1,0 @@
-config SHIELD_BOOM3RANG
-	def_bool $(shields_list_contains,boom3rang)
